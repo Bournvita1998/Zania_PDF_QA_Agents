@@ -1,0 +1,4 @@
+openai
+pymupdf
+slack_sdk
+langchain
